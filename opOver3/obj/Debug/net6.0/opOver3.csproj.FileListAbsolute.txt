@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\opOver3\opOver3\bin\Debug\net6.0\opOver3.exe
+C:\Users\ellio\source\repos\opOver3\opOver3\bin\Debug\net6.0\opOver3.deps.json
+C:\Users\ellio\source\repos\opOver3\opOver3\bin\Debug\net6.0\opOver3.runtimeconfig.json
+C:\Users\ellio\source\repos\opOver3\opOver3\bin\Debug\net6.0\opOver3.dll
+C:\Users\ellio\source\repos\opOver3\opOver3\bin\Debug\net6.0\opOver3.pdb
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.AssemblyInfo.cs
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.dll
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\refint\opOver3.dll
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.pdb
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\opOver3.genruntimeconfig.cache
+C:\Users\ellio\source\repos\opOver3\opOver3\obj\Debug\net6.0\ref\opOver3.dll
